@@ -1,0 +1,4 @@
+[submodule "Repo_VictorGirardi"]
+	path = Repo_VictorGirardi
+	url = https://github.com/vhugogirardi/Repo_VictorGirardi
+	branch = main
